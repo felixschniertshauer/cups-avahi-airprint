@@ -8,13 +8,8 @@ RUN echo -e "https://dl-cdn.alpinelinux.org/alpine/edge/testing\nhttps://dl-cdn.
 	cups-client \
 	cups-filters \
 	cups-dev \
-	gutenprint \
-	gutenprint-libs \
-	gutenprint-doc \
-	gutenprint-cups \
 	ghostscript \
 	brlaser \
-	hplip \
 	avahi \
 	inotify-tools \
 	python3 \
